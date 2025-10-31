@@ -1,1 +1,1 @@
-# Bear-and-Steady-Gene-algo
+# Bear-and-Steady-Gene- It finds the smallest substring in a gene sequence that can be replaced to make the gene “steady,” meaning each of the four characters (A, C, G, T) appears equally often. The function uses a sliding window approach to efficiently find the shortest section that can be changed to balance the gene.
